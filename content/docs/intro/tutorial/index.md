@@ -22,7 +22,7 @@ can build your first app! This section will guide you through the process of
 starting a new application, adding pages, navigating between those pages, and
 more. Let's get started!
 
-> Ionic uses TypeScript for its code. If you're unfamiliar with TypeScript, dont
+> Ionic uses TypeScript for its code. If you're unfamiliar with TypeScript, don't
 > worry, it's very similar to regular JavaScript. But if you want to read up on
 > it, take a look at [this resource
 > page](https://ionicframework.com/docs/resources/what-is/#typescript).
@@ -35,7 +35,7 @@ To start a new app, open your terminal/command prompt and run:
 $ ionic start MyIonicProject tutorial
 ```
 
-* `start` will tell the CLI create a new app.
+* `start` will tell the CLI to create a new app.
 * `MyIonicProject` will be the directory name and the app name from your
   project.
 * `tutorial` will be the starter template for your project.
@@ -44,11 +44,11 @@ Along with creating your project, this will also install [node
 modules](../../resources/what-is/#npm) for the application, and prompt you if
 you want [Cordova](../../resources/what-is/#cordova) set up.
 
-Along with the tutorial template, Ionic also provide the follow official
+Along with the tutorial template, Ionic also provides the following official
 templates:
 
 * `tabs` : a simple 3 tab layout
-* `sidemenu`: a layout with a swipable menu on the side
+* `sidemenu`: a layout with a swipeable menu on the side
 * `blank`: a bare starter with a single page
 * `super`: starter project with over 14 ready to use page designs
 * `tutorial`: a guided starter project
